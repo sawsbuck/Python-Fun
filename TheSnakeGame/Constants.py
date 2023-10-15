@@ -1,0 +1,10 @@
+#this file has the Constants used in the Game
+WIDTH, HEIGHT =  1000, 1000
+GRID_SIZE = 40
+GRID_WIDTH = WIDTH // GRID_SIZE
+GRID_HEIGHT = HEIGHT // GRID_SIZE
+SNAKE_SPEED = 10
+
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREEN = (0, 255, 0)
